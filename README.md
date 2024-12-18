@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShailPatel27
-- 👀 I’m interested in Backend and Data Science
+- 👀 I’m interested in Fullstack and DevOps
 - 🌱 I’m currently learning Javascript and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
