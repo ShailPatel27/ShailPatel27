@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ShailPatel27
-- 👀 I’m interested in Fullstack and DevOps
-- 🌱 I’m currently learning Javascript and Flutter
+- 👀 I’m interested in Fullstack and AI Engineering
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: shailpatel2709@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
